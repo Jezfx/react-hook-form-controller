@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ControlledDropdown should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiFormControl-root"
+  >
+    <label
+      class="MuiFormLabel-root"
+      for="foo"
+    >
+      Foo
+    </label>
+    <div
+      class="MuiFormControl-root MuiTextField-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <select
+          aria-invalid="false"
+          class="MuiSelect-root MuiSelect-select MuiInputBase-input MuiInput-input"
+          name="foo"
+        >
+          <option
+            name="bar"
+          >
+            Bar
+          </option>
+          <option
+            name="baz"
+          >
+            Baz
+          </option>
+        </select>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

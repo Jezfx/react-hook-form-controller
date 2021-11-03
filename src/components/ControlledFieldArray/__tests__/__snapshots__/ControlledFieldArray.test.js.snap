@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ControlledFieldArray should match snapshot 1`] = `
+<DocumentFragment>
+  <fieldset
+    class="MuiFormControl-root"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-1"
+    >
+      <div
+        aria-label="outlined primary button group"
+        class="MuiButtonGroup-root"
+        role="group"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedOutlined MuiButtonGroup-groupedOutlinedHorizontal MuiButtonGroup-groupedOutlinedPrimary MuiButton-outlinedPrimary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Add
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </fieldset>
+</DocumentFragment>
+`;

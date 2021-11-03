@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ControlledCheckBox should match snapshot 1`] = `
+<DocumentFragment>
+  <fieldset
+    class="MuiFormControl-root"
+  >
+    <legend
+      class="MuiFormLabel-root"
+    />
+    <div
+      class="MuiFormGroup-root"
+    />
+    <p
+      class="MuiFormHelperText-root"
+    />
+  </fieldset>
+</DocumentFragment>
+`;

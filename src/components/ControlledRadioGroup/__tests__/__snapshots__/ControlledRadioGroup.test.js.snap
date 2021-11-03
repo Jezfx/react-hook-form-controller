@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ControlledRadioGroup should match snapshot 1`] = `
+<DocumentFragment>
+  <fieldset
+    class="MuiFormControl-root"
+  >
+    <label
+      class="MuiFormLabel-root"
+    >
+      Foo
+    </label>
+    <div
+      class="MuiFormGroup-root"
+      role="radiogroup"
+    />
+    <p
+      class="MuiFormHelperText-root"
+    />
+  </fieldset>
+</DocumentFragment>
+`;
